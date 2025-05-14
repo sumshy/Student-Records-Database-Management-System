@@ -1,3 +1,5 @@
+# 🎓 Student Records Database Management System
+
 Objective:
 Design and implement a full-featured database using only MySQL.
 
@@ -13,8 +15,6 @@ Tables with proper constraints (PK, FK, NOT NULL, UNIQUE)
 
 Relationships (1-1, 1-M, M-M where needed)
 
-
-# 🎓 Student Records Database Management System
 
 ## 📘 Project Description
 
